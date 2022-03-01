@@ -1,1 +1,1 @@
-# Java-Programming-Helsinki
+# Java Programming Helsinki course
